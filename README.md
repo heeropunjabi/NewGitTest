@@ -1,2 +1,2 @@
 # NewGitTest
-This is GitTest Project
+Make a cool stuff !!!
